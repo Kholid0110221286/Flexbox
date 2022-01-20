@@ -1,0 +1,35 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: start;
+}
+h1 {
+    margin-top: 80px;
+    padding-top: 150px;
+}
+.box1 {
+    margin: 15px;
+    width: 2000px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: 50px;
+    font-display: optimal;
+}
+.box2 {
+    margin: 15px;
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+}
+.box3 {
+    margin: 15px;
+    width: 970px;
+    height: 500px;
+    border-radius: 10px;
+}
+.box4 {
+    margin: 15px;
+    width: 1300px;
+    height: 100px;
+    border-radius: 10px;
